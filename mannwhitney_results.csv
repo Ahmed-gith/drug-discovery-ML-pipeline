@@ -1,6 +1,6 @@
 Descriptor,p-value,Result
-pIC50,0.0,Different distribution (SIGNIFICANT ✅)
-MW,1.3383695041945397e-20,Different distribution (SIGNIFICANT ✅)
-LogP,0.051074635277235644,Same distribution (NOT significant)
-NumHDonors,3.1085637821038234e-10,Different distribution (SIGNIFICANT ✅)
-NumHAcceptors,0.049153091364772444,Different distribution (SIGNIFICANT ✅)
+pIC50,0.0,Different distribution 
+MW,1.3383695041945397e-20,Different distribution 
+LogP,0.051074635277235644,Same distribution 
+NumHDonors,3.1085637821038234e-10,Different distribution
+NumHAcceptors,0.049153091364772444,Different distribution 
