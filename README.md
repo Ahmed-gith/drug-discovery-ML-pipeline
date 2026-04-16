@@ -7,3 +7,9 @@ After that I processed the data by converting IC50 into pIC50 and removed invali
 This project basically shows full workflow from raw bioactivity data to machine learning prediction which is used in real drug discovery. It includes data processing, feature engineering, model building and evaluation.
 
 Tech used: Python, RDKit, scikit-learn, pandas, numpy, matplotlib.
+
+
+Results
+
+![Prediction Plot](plots/plot_experimental_vs_predicted.png)
+![Feature Importance](plots/plot_feature_importance.png)
