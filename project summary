@@ -1,0 +1,10 @@
+built this project to understand how machine learning works in real drug discovery using chembl bioactivity data.
+main goal was to predict pIC50 values for aromatase inhibitors by creating a full pipeline from data cleaning to 
+feature engineering and model training.
+model shows good performance with r2 score of 0.528 and rmse around 1.11 which means predictions are reasonably close to actual values. 
+using 181 molecular fingerprint features helped capture important chemical patterns and model is clearly learning because predicted vs actual plot 
+shows strong upward trend especially in pIC50 range 5 to 8 where most drug compounds exist.
+one limitation is model struggles with very low potency compounds and some outliers where prediction is not accurate but this is normal in real 
+drug discovery because of complex and diverse molecular structures.
+overall this project shows complete workflow from raw chembl data to machine learning prediction and helped me understand how molecular fingerprints
+and feature selection impact model performance. further improvement can be done by testing different models or applying this pipeline to other biological targets.
