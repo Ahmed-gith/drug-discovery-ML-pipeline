@@ -9,7 +9,14 @@ This project basically shows full workflow from raw bioactivity data to machine 
 Tech used: Python, RDKit, scikit-learn, pandas, numpy, matplotlib.
 
 
+
+Author: AHMED ASID
+
+
 Results
 
 ![Prediction Plot](plot_experimental_vs_predicted.png)
 ![Feature Importance](plot_feature_importance.png)
+
+
+Author: AHMED ASID
