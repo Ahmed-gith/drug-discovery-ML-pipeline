@@ -15,7 +15,6 @@ sns.set(style='white')
 
 df = pd.read_csv('dataset_final.csv')
 
-
 X = df.drop('pIC50', axis=1)
 Y = df['pIC50']
 
