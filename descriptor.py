@@ -9,7 +9,6 @@ import seaborn as sns
 sns.set(style='ticks')
 
 
-
 df = pd.read_csv('bioactivity_data_eda.csv')
 
 
