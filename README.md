@@ -11,5 +11,5 @@ Tech used: Python, RDKit, scikit-learn, pandas, numpy, matplotlib.
 
 Results
 
-![Prediction Plot](plots/plot_experimental_vs_predicted.png)
-![Feature Importance](plots/plot_feature_importance.png)
+![Prediction Plot](plot_experimental_vs_predicted.png)
+![Feature Importance](plot_feature_importance.png)
