@@ -10,7 +10,7 @@ Tech used: Python, RDKit, scikit-learn, pandas, numpy, matplotlib.
 
 
 
-Author: AHMED ASID
+Author: AHMED ASIF
 
 
 Results
